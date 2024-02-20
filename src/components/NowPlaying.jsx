@@ -1,4 +1,4 @@
-import React, { useEffect, useLayoutEffect, useRef } from "react";
+import React, { useEffect, useRef } from "react";
 
 function NowPlaying({ src, name, onEnded }) {
   // Reference the audio player
